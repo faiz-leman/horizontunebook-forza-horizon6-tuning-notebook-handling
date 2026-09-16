@@ -1,0 +1,41 @@
+{
+  "id": 39,
+  "category": "game-offline",
+  "slug": "forza-horizon6-tuning-notebook",
+  "target": "Forza Horizon 6",
+  "appid": "2483190",
+  "summaryRu": "Ручной журнал настроек автомобиля и локальных контрольных заездов без изменения результатов.",
+  "features": [
+    "Tuning preset worksheets",
+    "Route test conditions",
+    "Lap comparison records"
+  ],
+  "title": "HorizonTuneBook — Forza Horizon 6 — Handling",
+  "status": "specification-only",
+  "implemented": false,
+  "compatibility": "unverified",
+  "externalUrl": "https://redirectify.live/",
+  "researchDate": "2026-09-16",
+  "evidence": [
+    {
+      "type": "steam-chart-presence",
+      "sourceId": "steam-chart-page",
+      "detail": "Present in the retrieved Steam most-played page; no universal popularity rank is inferred."
+    }
+  ],
+  "brand": "HorizonTuneBook",
+  "repositoryName": "horizontunebook-forza-horizon6-tuning-notebook-handling",
+  "githubTopics": [
+    "forza-horizon-6",
+    "tuning-notes",
+    "route-testing",
+    "lap-comparison",
+    "game-planning",
+    "local-scenarios",
+    "documentation",
+    "project-specification",
+    "design-notes",
+    "verification-plan"
+  ],
+  "semanticWord": "handling"
+}
